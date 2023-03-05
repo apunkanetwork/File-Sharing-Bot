@@ -124,7 +124,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "Join Channel",
-                url = 'https://t.me/Oxime_World')
+                url = 'https://t.me/GoGo_Anime')
         ],[
             InlineKeyboardButton(
                 "Join 2nd Channel",
