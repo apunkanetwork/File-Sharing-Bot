@@ -128,7 +128,7 @@ async def not_joined(client: Client, message: Message):
         ],[
             InlineKeyboardButton(
                 "Join 2nd Channel",
-                url = 'https://t.me/Demon_Slayer_Season_3_2')
+                url = 'https://t.me/One_Piece_Dub_Sub_Episodes')
           ],[
             InlineKeyboardButton(
                 "Join 3rd Channel",
