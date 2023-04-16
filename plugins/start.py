@@ -124,7 +124,7 @@ async def not_joined(client: Client, message: Message):
         [
             InlineKeyboardButton(
                 "Join Request",
-                url = 'https://t.me/+pHz2bd-MwIoxYTZl')
+                url = 'https://t.me/+nVOiHpxKwZ80MGFl')
         ],[
             InlineKeyboardButton(
                 "Join Request 2",
